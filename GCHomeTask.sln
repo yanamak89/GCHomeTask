@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryMonitoringApp", "MemoryMonitoringApp\MemoryMonitoringApp.csproj", "{CC2BB385-CFB1-4ABF-8D21-F362C5F436C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighMemoryUsage", "HighMemoryUsage\HighMemoryUsage.csproj", "{00A1231A-9459-424C-869C-858927897C92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC2BB385-CFB1-4ABF-8D21-F362C5F436C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC2BB385-CFB1-4ABF-8D21-F362C5F436C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC2BB385-CFB1-4ABF-8D21-F362C5F436C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC2BB385-CFB1-4ABF-8D21-F362C5F436C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00A1231A-9459-424C-869C-858927897C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A1231A-9459-424C-869C-858927897C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A1231A-9459-424C-869C-858927897C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A1231A-9459-424C-869C-858927897C92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
